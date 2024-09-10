@@ -1,2 +1,2 @@
-const SERVER = "https://www.ethanzhao.us/"
+const SERVER = "https://www.cyberceo-sd.org/"
 export { SERVER }
