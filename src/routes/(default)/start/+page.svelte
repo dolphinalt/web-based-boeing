@@ -36,7 +36,7 @@
                 alert(data.err);
             }
             else {
-                alert("Your time has started. You have 4 hours remaining.")
+                alert("Your time has started. You have 1 hour remaining.")
                 window.location.pathname = '/challenges'
             }
         })
